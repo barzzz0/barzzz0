@@ -1,3 +1,0 @@
-[
-  "7845518932:AAGBOj43FlQloGEZ5LAbykJuhhOMPRmdOZk"
-]

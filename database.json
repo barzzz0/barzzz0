@@ -1,6 +1,29 @@
 {
   "users": [
-    { "username": "barz", "password": "8" },
-    { "username": "hanz", "password": "1" }
+    {
+      "username": "admin",
+      "password": "admin123",
+      "expired": "2025-08-01"
+    },
+    {
+      "username": "gysen",
+      "password": "gysen2024",
+      "expired": "2025-09-15"
+    },
+    {
+      "username": "tester1",
+      "password": "test123",
+      "expired": "2025-07-30"
+    },
+    {
+      "username": "useralpha",
+      "password": "alpha321",
+      "expired": "2025-12-31"
+    },
+    {
+      "username": "demoacc",
+      "password": "demoacc456",
+      "expired": "2025-10-20"
+    }
   ]
 }
